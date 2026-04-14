@@ -2,6 +2,9 @@
 
 An Excel dashboard built on US retail sales data covering 2014–2017. Tracks sales, profit, and customer trends across categories and states.
 
+<img width="2082" height="698" alt="Sales_Dashboard_Preview" src="https://github.com/user-attachments/assets/195cf170-a8fe-4c81-ad20-70b22240cae9" />
+
+
 ## What's in it
 
 - **Dashboard** — Visual overview of all key metrics
